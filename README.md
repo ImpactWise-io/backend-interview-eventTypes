@@ -6,13 +6,9 @@
 
 ## Second Task:
 
-- console.log event types exist in external API but not in Mock data (see eventType.mockData.json for Mock Data).
-
-## Third Task:
-
 - console.log event types exist in the external API but not in mock data (use exernalId).
 
-## Forth Task:
+## Third Task:
 
 - Unit test one implemented function.
 
